@@ -4,27 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "376dee77d907df9c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "74dcb31d80f9b111",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "Welcome.md",
-                "bFile": "Welcome.md",
-                "aRef": "HEAD",
-                "bRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: Welcome  (Index)"
-            }
-          }
-        ]
-      },
-      {
         "id": "65d6580fb53c051a",
         "type": "tabs",
         "children": [
@@ -211,7 +190,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "74dcb31d80f9b111",
+  "active": "1a47e88c7bfd596a",
   "lastOpenFiles": [
     "Welcome.md",
     "objects/pack",
