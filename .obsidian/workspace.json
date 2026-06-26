@@ -4,20 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8ea8afd15fc54099",
+        "id": "9cdb851df79c54c0",
         "type": "tabs",
         "children": [
           {
-            "id": "d729dfdfa6761cce",
+            "id": "578071e9274dc6b2",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "split-diff-view",
               "state": {
-                "file": "Untitled.base",
-                "viewName": "Table"
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-table",
-              "title": "Untitled"
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
             }
           }
         ]
@@ -192,21 +193,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "026c08392e223860",
+  "active": "578071e9274dc6b2",
   "lastOpenFiles": [
+    "Welcome.md",
+    "Untitled.base",
     "Gardening/General",
     "Gardening/Outdoor",
     "Gardening/Indoor",
     "Gardening/Question for ChatGPT.md",
     "Gardening",
-    "Untitled.base",
     "Gardening/Indoor/Green Onions/2026.02.17 - ChatGPT.md",
     "Gardening/Indoor/Cucumbers",
     "Gardening/Indoor/Green Onions",
-    "Welcome.md",
     "objects/pack",
     "objects/info",
-    "objects",
-    "HEAD"
+    "objects"
   ]
 }
