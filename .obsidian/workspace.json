@@ -4,21 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "65d6580fb53c051a",
+        "id": "8ea8afd15fc54099",
         "type": "tabs",
         "children": [
           {
-            "id": "a4d1db5cc59dc8d0",
+            "id": "d729dfdfa6761cce",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Green Onions/2026.02.17 - ChatGPT.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "2026.02.17 - ChatGPT"
+              "icon": "lucide-table",
+              "title": "Untitled"
             }
           }
         ]
@@ -156,13 +155,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Green Onions/2026.02.17 - ChatGPT.md",
-                "followCursor": false,
+                "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026.02.17 - ChatGPT"
+              "title": "Outline"
             }
           },
           {
@@ -194,19 +192,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a4d1db5cc59dc8d0",
+  "active": "026c08392e223860",
   "lastOpenFiles": [
-    "Green Onions/2026.02.17 - ChatGPT.md",
-    "Green Onions",
+    "Gardening/General",
+    "Gardening/Outdoor",
+    "Gardening/Indoor",
+    "Gardening/Question for ChatGPT.md",
+    "Gardening",
+    "Untitled.base",
+    "Gardening/Indoor/Green Onions/2026.02.17 - ChatGPT.md",
+    "Gardening/Indoor/Cucumbers",
+    "Gardening/Indoor/Green Onions",
     "Welcome.md",
     "objects/pack",
     "objects/info",
     "objects",
-    "HEAD",
-    "refs/tags",
-    "refs/heads",
-    "refs",
-    "config",
-    "hooks/update.sample"
+    "HEAD"
   ]
 }
